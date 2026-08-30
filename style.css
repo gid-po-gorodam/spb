@@ -50,8 +50,8 @@ a{text-decoration:none;color:inherit}
 .channel-cta b{font-size:18px;margin-left:11px}
 }
 .final-card {
-  margin: 22px 18px 0;
-  padding: 24px 28px;
+  margin: 18px 18px 0;
+  padding: 16px 28px;
   display: flex;
   align-items: center;
   gap: 20px;
@@ -81,8 +81,8 @@ a{text-decoration:none;color:inherit}
 
 @media (max-width: 760px) {
   .final-card {
-    margin: 12px 7px 0;
-    padding: 20px;
+    margin: 10px 7px 0;
+    padding: 14px 20px;
     gap: 14px;
     border-radius: 22px;
   }
