@@ -11,7 +11,7 @@ a{text-decoration:none;color:inherit}
 .location-pill{display:inline-flex;align-items:center;min-height:54px;padding:0 24px;border-radius:16px;background:#2f64bd;color:#fff;font-size:clamp(18px,2.5vw,25px);font-weight:800;box-shadow:0 7px 18px rgba(35,91,177,.18)}
 .cover-copy h1{margin:42px 0 17px;font-size:clamp(46px,6.8vw,76px);line-height:.98;letter-spacing:-2.5px;font-weight:800}
 .cover-copy p{margin:0;color:#617084;font-size:clamp(21px,3vw,31px);line-height:1.32}
-.channels-card{position:relative;z-index:3;margin:-60px 18px 0;background:rgba(255,255,255,.98);border:1px solid #e1e6ed;border-radius:28px;overflow:hidden;box-shadow:0 12px 30px rgba(24,45,72,.08)}
+.channels-card{position:relative;z-index:3;margin:-70px 18px 0;background:rgba(255,255,255,.98);border:1px solid #e1e6ed;border-radius:28px;overflow:hidden;box-shadow:0 12px 30px rgba(24,45,72,.08)}
 .channel{display:flex;align-items:center;gap:26px;min-height:154px;padding:18px 30px;border-bottom:1px solid #e5e8ed;transition:background .15s}
 .channel:last-child{border-bottom:0}
 .channel:hover{background:#fbfcff}
@@ -29,7 +29,7 @@ a{text-decoration:none;color:inherit}
 .location-pill{min-height:48px;padding:0 17px;border-radius:14px;font-size:18px}
 .cover-copy h1{margin:35px 0 14px;font-size:44px;letter-spacing:-2px}
 .cover-copy p{font-size:21px;line-height:1.28}
-.channels-card{margin:-46px 7px 0;border-radius:22px}
+.channels-card{margin:-60px 7px 0;border-radius:22px}
 .channel{min-height:137px;padding:15px 15px;gap:15px}
 .avatar{width:78px;height:78px}
 .channel-content{display:block}
